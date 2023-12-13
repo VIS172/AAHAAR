@@ -1,6 +1,6 @@
 # AAHAAR
 
-This innovative portal facilitates the efficient redistribution of surplus food from restaurants, businesses, and individuals to community organizations and charities serving the less fortunate. Users can easily connect, coordinate, and schedule food donations through the portal, ensuring that edible surplus doesn't go to waste.
+AAHAAR is an innovative portal which facilitates the efficient redistribution of surplus food from restaurants, businesses, and individuals to community organizations like NGOs, orphanages, and old age homes. Users can easily connect, coordinate, and schedule food donations through the portal, ensuring that edible surplus doesn't go to waste.
 
 Tech Stack
 This project was built using:
